@@ -1,0 +1,14 @@
+---Research Output---
+Timestamp: 20250918_215808
+
+Topic: Korean Cuisine
+Summary: Korean cuisine is characterized by its balance of five basic tastes (sweet, sour, bitter, spicy, and salty), the use of fresh ingredients, and a variety of cooking methods.  Common ingredients include rice, kimchi, gochujang (Korean chili paste), soy sauce, garlic, ginger, and sesame oil.  Popular dishes include bibimbap (mixed rice with meat and vegetables), bulgogi (marinated grilled beef), kimchi jjigae (kimchi stew), and Korean BBQ.
+Sources: ['Wikipedia', 'Various online cooking resources']
+
+---Research Output---
+Timestamp: 20250918_220113
+
+Topic: Korean Cuisine
+Summary: Korean cuisine is rich and varied, influenced by its geography and history.  Common ingredients include rice, kimchi (fermented vegetables), gochujang (fermented chili paste), soy sauce, garlic, ginger, and sesame oil.  Dishes range from hearty stews like jjigae to grilled meats like bulgogi and flavorful noodle dishes like japchae.  Banchan, an array of small side dishes, often accompanies meals.
+Sources: ['Wikipedia', 'Various online culinary resources']
+
